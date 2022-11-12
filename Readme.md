@@ -1,7 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Tutorial com comandos básicos para usar Git / Github</title>
+</head>
+<body>
+<!-- Conteúdo -->
+
 <h2> Tutorial com comandos básicos para usar Git / Github </h2>
 
 <h3>GIT</h3>
-<body>
+
 1) No gerenciador de arquivos, botão direito e Git Bash Here
 2) Git Bash, digitar git init (criar um repositório Git)
 3) ... conteúdo...
@@ -16,4 +25,6 @@
 4) git push -u origin main (faz o upload para o servidor remoto)
 
 </body>
+</html>
+
 
