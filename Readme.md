@@ -1,4 +1,4 @@
-<h1> Tutorial com comandos básicos para usar Git / Github <\h1>
+<h1> Tutorial com comandos básicos para usar Git / Github </h1>
 
 GIT
 1) No gerenciador de arquivos, botão direito e Git Bash Here
