@@ -1,11 +1,13 @@
 <h2> Tutorial com comandos básicos para usar Git / Github </h2>
 
-<h2>GIT</h2>
-<h>1) No gerenciador de arquivos, botão direito e Git Bash Here<h>
-<h>2) Git Bash, digitar git init (criar um repositório Git)<h>
+<html>GIT</h2>
+<html>
+1) No gerenciador de arquivos, botão direito e Git Bash Here
+2) Git Bash, digitar git init (criar um repositório Git)
 3) ... conteúdo...
 4) git add * (adicionar os arquivos incluidos, modificados, etc ao repositório)
 5) git commit (salvar as alterações)
+  <html>
 
 <h2>GITHUB</h2>
 1) Criar repositório no github (https://github.com/edisonbonotto)
