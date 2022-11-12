@@ -30,7 +30,7 @@
 <h3>Baixar repositório do Github para a máquina local (como repositório, não somente pastas)</h3>
 
 1) No repositório git@github.com:<nome_do _dono>/<nome_do_repositório>:
-   * Clica no botão verde <CODE>
+   * Clica no botão verde (CODE)
    * copia o endereço do repositório
    * no Git Bash, git clone git@github.com:<nome_do _dono>/<nome_do_repositório>
 
