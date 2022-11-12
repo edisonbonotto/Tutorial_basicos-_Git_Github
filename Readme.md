@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="UTF-8"/>
-<title>Tutorial com comandos básicos para usar Git / Github</title>
-</head>
+
 <body>
 
 <h2> Tutorial com comandos básicos para usar Git / Github </h2>
