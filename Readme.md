@@ -9,7 +9,9 @@
 
 1) No gerenciador de arquivos, botão direito e Git Bash Here
 2) Git Bash, digitar git init (criar um repositório Git)
-3) ... conteúdo...
+3) Na primeira vez: (como é global, serve para todos os repositórios):
+    * git config --global user.email "edisonbonotto@gmail.com"
+    * git config -- global user.name "edisonbonotto"
 4) git add * (adicionar os arquivos incluidos, modificados, etc ao repositório)
 5) git commit (salvar as alterações)
 
