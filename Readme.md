@@ -15,7 +15,6 @@
 4) git add * (adicionar os arquivos incluidos, modificados, etc ao repositório)
 5) git commit (salvar as alterações)
 
-
 <h3>GITHUB</h3>
   
 1) Criar repositório no github (https://github.com/edisonbonotto)
@@ -24,11 +23,17 @@
 4) git push -u origin main (faz o upload para o servidor remoto)
 
 <h3>Resolver conflitos - Codigo alterado no github e no git (como fazer?)</h3>
-  
 
 1) git commit -m (resolve conflitos)
 2) git pull origin main
    
+<h3>Baixar repositório do Github para a máquina local (como repositório, não somente pastas)</h3>
+
+1) No repositório git@github.com:<nome_do _dono>/<nome_do_repositório>:
+   * Clica no botão verde <CODE>
+   * copia o endereço do repositório
+   * no Git Bash, git clone git@github.com:<nome_do _dono>/<nome_do_repositório>
+
 </body>
 </html>
 
