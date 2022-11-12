@@ -23,11 +23,11 @@
 3) git branch -M main
 4) git push -u origin main (faz o upload para o servidor remoto)
 
-<h3>Resolver conflitos</h3>
-   
-Codigo alterado no github e no git (como fazer?)
-   
-1) git pull origin main
+<h3>Resolver conflitos - Codigo alterado no github e no git (como fazer?)</h3>
+  
+
+1) git commit -m (resolve conflitos)
+2) git pull origin main
    
 </body>
 </html>
