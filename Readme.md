@@ -26,7 +26,8 @@
 <h3>Resolver conflitos</h3>
    
 Codigo alterado no github e no git (como fazer?)
-1) 
+   
+1) git pull origin main
    
 </body>
 </html>
